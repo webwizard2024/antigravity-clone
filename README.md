@@ -1,10 +1,10 @@
-# Anti-Gravity IDE
+# Anti-Gravity Clone
 
 ## Why This Project?
 
 Modern development environments are powerful but often heavy and difficult to customize for experimentation. This project explores the idea of a lightweight, browser-based coding environment that combines code editing, execution, and AI-assisted development in a single interface.
 
-Anti-Gravity IDE is designed as a learning and experimentation tool rather than a full replacement for traditional desktop IDEs.
+Anti-Gravity clone is designed as a learning and experimentation tool rather than a full replacement for traditional desktop IDEs.
 
 > The goal is to reduce friction between writing code, running it, and improving it with AI assistance.
 
