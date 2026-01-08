@@ -53,12 +53,6 @@ Start the IDE with:
 streamlit run app.py
 Add your Gemini API key in the sidebar when prompted.
 
-Limitations
 
-Python code execution only
-
-Internet connection required for AI features
-
-Not intended for large or production-scale projects
 
 
